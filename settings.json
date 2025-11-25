@@ -1,0 +1,12 @@
+{
+  "title": "AutoTranslate Settings",
+  "settings": [
+    {
+      "type": "text",
+      "id": "autoTranslate.targetLang",
+      "name": "Target Language",
+      "default": "en",
+      "placeholder": "e.g. en, id, es, fr, jp"
+    }
+  ]
+}
