@@ -1,7 +1,7 @@
 {
-  "name": "AutoTranslator",
-  "author": "YourName",
+  "name": "AutoTranslate",
+  "description": "Automatically translates your outgoing messages into a target language.",
   "version": "1.0.0",
-  "description": "Translates outgoing messages in Discord.",
-  "url": "https://raw.githack.com/tios1/Revenge-Translator/main/Translator.plugin.js"
+  "author": "YourName",
+  "main": "index.js"
 }
